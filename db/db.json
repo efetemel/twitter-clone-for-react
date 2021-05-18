@@ -1,0 +1,40 @@
+{
+  "tweets": [
+    {
+      "id": 0,
+      "avatar": "https://pbs.twimg.com/profile_images/1072875232967290881/DqrxPbyT_400x400.jpg",
+      "content": "Ne mutlu Türküm diyene. - Mustafa Kemal ATATÜRK",
+      "displayName": "Efe Temel ERSÖZ",
+      "image": "https://i.ytimg.com/vi/MjECqu8t1OM/maxresdefault.jpg",
+      "timestamp": "now",
+      "username": "efetemel"
+    },
+    {
+      "id": 1,
+      "avatar": "https://pbs.twimg.com/profile_images/1072875232967290881/DqrxPbyT_400x400.jpg",
+      "content": "Selam",
+      "displayName": "Efe Temel ERSÖZ",
+      "image": "https://i.ytimg.com/vi/MjECqu8t1OM/maxresdefault.jpg",
+      "timestamp": "now",
+      "username": "efetemel"
+    },
+    {
+      "id": 3,
+      "avatar": "https://pbs.twimg.com/profile_images/1072875232967290881/DqrxPbyT_400x400.jpg",
+      "content": "Selam",
+      "displayName": "Efe Temel ERSÖZ",
+      "image": "https://i.ytimg.com/vi/MjECqu8t1OM/maxresdefault.jpg",
+      "timestamp": "now",
+      "username": "efetemel"
+    },
+    {
+      "id": 4,
+      "avatar": "https://pbs.twimg.com/profile_images/1072875232967290881/DqrxPbyT_400x400.jpg",
+      "content": "Selam1",
+      "displayName": "Efe Temel ERSÖZ",
+      "image": "https://i.ytimg.com/vi/MjECqu8t1OM/maxresdefault.jpg",
+      "timestamp": "now",
+      "username": "efetemel"
+    }
+  ]
+}
